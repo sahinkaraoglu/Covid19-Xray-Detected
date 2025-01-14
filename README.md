@@ -3,7 +3,6 @@ Detects Covid-19 Using Deep Learning
 
 
 <div align="center">
-  
     <img src="https://github.com/user-attachments/assets/a9992715-ed37-465b-8648-dcd0b88cc62f" alt="Top Image" width="896" style="margin-bottom: 10px;"/>
     <table>
         <tr>
